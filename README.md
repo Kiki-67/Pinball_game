@@ -15,12 +15,12 @@ Users can input the speed and color of ball and paddle before starting the game.
     import tkinter
     import time
 ### Run the py file
-1. input speed of the ball: __float number__  
+1. input speed of the ball: __float number__  (Suggest: 3-8)
 __The bigger the number is, the higher the speed is.__  
 1 can be really slow, 6 can be really fast, but you can input higher number if you want to try crazy speed.  
 *Click enter*
 
-2. input speed of the paddle: __float number__  
+2. input speed of the paddle: __float number__  (Suggest: 3-8)
 __The bigger the number is, the higher the speed is.__  
 1 can be really slow, 6 can be really fast, but you can input higher number if you want to try crazy speed.  
 *Click enter*
@@ -33,8 +33,10 @@ Simple color, including blue, red, yellow, green, grey etc.
 Simple color, including blue, red, yellow, green, grey etc.  
 *Click enter*
 
-5. then you have to click the pop-up window, and click down-arrow key to start the game!
+5. then click the pop-up window, and click down-arrow key to start the game!
 
 6. control the paddle by clicking left-arrow and right-arrow keys to catch the ball.
 
-7. play!
+7. click up-arrow key to pause the game.
+
+8. enjoy the play!
